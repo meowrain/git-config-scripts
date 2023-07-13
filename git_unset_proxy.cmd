@@ -1,5 +1,5 @@
 @echo off
 git config --global --unset http.proxy
 git config --global --unset https.proxy
-echo Git ä»£ç†å·²å–æ¶ˆ
+echo Git ´úÀíÒÑÈ¡Ïû
 pause

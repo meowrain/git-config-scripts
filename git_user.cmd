@@ -1,7 +1,7 @@
 @echo off
-set /p username=è¯·è¾“å…¥ä½ çš„ Git ç”¨æˆ·åï¼š
-set /p email=è¯·è¾“å…¥ä½ çš„ Git é‚®ç®±ï¼š
+set /p username=ÇëÊäÈëÄãµÄ Git ÓÃ»§Ãû£º
+set /p email=ÇëÊäÈëÄãµÄ Git ÓÊÏä£º
 git config --global user.name "%username%"
 git config --global user.email "%email%"
-echo Git ç”¨æˆ·åå’Œé‚®ç®±å·²è®¾ç½®ä¸º %username% å’Œ %email%
+echo Git ÓÃ»§ÃûºÍÓÊÏäÒÑÉèÖÃÎª %username% ºÍ %email%
 pause
